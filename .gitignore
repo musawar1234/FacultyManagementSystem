@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+packages/
+
+# ASP.NET Generated Files
+Generated_Code/
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Publish Output
+Publish/
+
+# ReSharper
+_ReSharper*/
+*.ReSharper
+
+# IIS Express
+/.vs/config/
+
+# OS Files
+Thumbs.db
+Desktop.ini
