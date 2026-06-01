@@ -1,2 +1,2 @@
 # FacultyManagementSystem
-this link purpose is that easily get the link of Faculty Management details
+The purpose of this link is to easily get the link to the Faculty Management details
